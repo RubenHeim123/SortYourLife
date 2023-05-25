@@ -1,0 +1,310 @@
+﻿date;amount;category;description;account;transactionkind
+3.1.22;308,00;Miete;Miete an Dieter;Girokonto;Ausgabe
+3.1.22;45,77;Versicherungen;BU Canada Life;Girokonto;Ausgabe
+3.1.22;10,20;Reisen;SSB;Girokonto;Ausgabe
+3.1.22;0,35;Allgemein;Post;Girokonto;Ausgabe
+5.1.22;59,68;Tanken;Tanken für 1,64.9;Girokonto;Ausgabe
+3.1.22;51,96;Kleidung;Kleidung für Ruben;Girokonto;Ausgabe
+13.1.22;22,19;Lebensmittel;Aldi;Girokonto;Ausgabe
+13.1.22;10,14;Lebensmittel;Edeka;Girokonto;Ausgabe
+7.1.22;25,09;Lebensmittel;Edeka;Girokonto;Ausgabe
+7.1.22;2,90;Lebensmittel;Edeka;Girokonto;Ausgabe
+9.1.22;37,45;Tanken;Tanken für 1,81.9;Girokonto;Ausgabe
+7.1.22;42,04;Lebensmittel;Aldi;Girokonto;Ausgabe
+12.1.22;67,32;Tanken;Tanken für 1,67.9;Girokonto;Ausgabe
+29.1.22;7,45;Haushaltsmittel;dm;Girokonto;Ausgabe
+31.1.22;65,15;Tanken;Tanken für 1,72.9;Girokonto;Ausgabe
+22.1.22;60,89;Freizeit;Cafe del Sol und Cinemax;Girokonto;Ausgabe
+27.1.22;48,78;Lebensmittel;aldi;Girokonto;Ausgabe
+26.1.22;10,20;Reisen;SSB;Girokonto;Ausgabe
+29.1.22;143,85;Kleidung;Greenality;Girokonto;Ausgabe
+29.1.22;19,89;Bücher;Thalia;Girokonto;Ausgabe
+13.1.22;22,19;Lebensmittel;aldi;Girokonto;Ausgabe
+22.1.22;12,79;Freizeit;Cinemax;Barvermögen;Ausgabe
+3.2.22;308,00;Miete;Miete an Dieter;Girokonto;Ausgabe
+3.2.22;45,77;Versicherungen;BU Canada Life;Girokonto;Ausgabe
+7.2.22;30,30;Tanken;Tanken für 1,74.9;Girokonto;Ausgabe
+3.2.22;55,78;Lebensmittel;aldi;Girokonto;Ausgabe
+3.2.22;2,99;Lebensmittel;rewe;Girokonto;Ausgabe
+3.2.22;26,50;Haushaltsmittel;dm;Girokonto;Ausgabe
+9.2.22;30,00;Allgemein;CDS Betriebs GmbH Filderstadt;Girokonto;Ausgabe
+11.2.22;62,12;Tanken;Tanken für 1,73.9;Girokonto;Ausgabe
+10.2.22;25,94;Gesundheit;Sporthanteln Sport Kathmaier;Girokonto;Ausgabe
+10.2.22;14,75;Lebensmittel;rewe;Girokonto;Ausgabe
+10.2.22;39,27;Lebensmittel;aldi;Girokonto;Ausgabe
+19.2.22;6,79;Lebensmittel;rewe;Barvermögen;Ausgabe
+24.2.22;28,35;Haushaltsmittel;dm;Girokonto;Ausgabe
+24.2.22;5,92;Gesundheit;Fortuna Apotheke;Barvermögen;Ausgabe
+23.2.22;16,95;Gesundheit;Fortuna Apotheke;Girokonto;Ausgabe
+24.2.22;43,24;Lebensmittel;edeka;Girokonto;Ausgabe
+24.2.22;67,19;Lebensmittel;aldi;Girokonto;Ausgabe
+3.3.22;308,00;Miete;Miete an Dieter;Girokonto;Ausgabe
+3.3.22;45,77;Versicherungen;BU Canada Life;Girokonto;Ausgabe
+4.3.22;40,24;Lebensmittel;aldi;Girokonto;Ausgabe
+2.3.22;2,75;Allgemein;Post;Barvermögen;Ausgabe
+2.3.22;10,20;Reisen;SSB;Girokonto;Ausgabe
+2.3.22;30,48;Gesundheit;Fortuna Apotheke;Girokonto;Ausgabe
+1.3.22;15,65;Haushaltsmittel;dm;Girokonto;Ausgabe
+14.3.22;30,54;Lebensmittel;Rewe;Girokonto;Ausgabe
+17.3.22;17,90;Gesundheit;Filder Apotheke;Girokonto;Ausgabe
+5.3.22;17,98;Reisen;Subway;Barvermögen;Ausgabe
+17.3.22;21,48;Lebensmittel;Rewe;Girokonto;Ausgabe
+19.3.22;2,40;Lebensmittel;Alnatura;Barvermögen;Ausgabe
+19.3.22;9,97;Gesundheit;Waldau Apotheke;Girokonto;Ausgabe
+18.3.22;10,20;Reisen;SSB;Girokonto;Ausgabe
+18.3.22;6,73;Lebensmittel;Rewe;Girokonto;Ausgabe
+22.3.22;33,13;Lebensmittel;Rewe;Girokonto;Ausgabe
+22.3.22;3,95;Lebensmittel;Bäcker;Barvermögen;Ausgabe
+16.3.22;8,50;Allgemein;Post;Girokonto;Ausgabe
+10.3.22;29,36;Lebensmittel;Rewe;Girokonto;Ausgabe
+12.3.22;33,17;Lebensmittel;rewe;Girokonto;Ausgabe
+8.3.22;10,20;Reisen;SSB;Girokonto;Ausgabe
+24.3.22;11304,59;Schule;Studiumskosten;Girokonto;Ausgabe
+24.3.22;7,66;Lebensmittel;Rewe;Girokonto;Ausgabe
+24.3.22;8,29;Freizeit;Wolle Rödel;Girokonto;Ausgabe
+24.3.22;62,97;Kleidung;Hunkemöller;Girokonto;Ausgabe
+24.3.22;12,70;Reisen;RSV;Girokonto;Ausgabe
+18.3.22;18,00;Geschenke;Dieter Geschenk;Girokonto;Ausgabe
+31.3.22;5,00;Gesundheit;Fortuna Apotheke;Girokonto;Ausgabe
+31.3.22;7,07;Lebensmittel;Rewe;Girokonto;Ausgabe
+31.3.22;6,40;Reisen;SSB;Girokonto;Ausgabe
+24.3.22;12,10;Reisen;SSB;Girokonto;Ausgabe
+29.3.22;7,50;Reisen;RSV;Girokonto;Ausgabe
+27.3.22;7,50;Reisen;RSV;Girokonto;Ausgabe
+26.3.22;46,59;Lebensmittel;Rewe;Girokonto;Ausgabe
+31.3.22;7,50;Reisen;RSV;Girokonto;Ausgabe
+7.3.22;45,77;Gesundheit;Fortuna Apotheke;Girokonto;Ausgabe
+25.3.22;12,70;Reisen;RSV;Girokonto;Ausgabe
+3.4.22;400,00;Miete;Miete an Dieter;Girokonto;Ausgabe
+3.4.22;45,77;Versicherungen;BU Canada Life;Girokonto;Ausgabe
+1.4.22;16,45;Lebensmittel;Häussermann;Girokonto;Ausgabe
+2.4.22;69,79;Tanken;Tanken für 1,98.9;Girokonto;Ausgabe
+1.4.22;92,15;Lebensmittel;aldi;Girokonto;Ausgabe
+1.4.22;10,71;Lebensmittel;edeka;Girokonto;Ausgabe
+4.4.22;10,60;Reisen;SSB;Girokonto;Ausgabe
+14.4.22;48,31;Lebensmittel;aldi;Girokonto;Ausgabe
+14.4.22;10,50;Haushaltsmittel;dm;Girokonto;Ausgabe
+6.4.22;94,99;Technische Ausrüstung;Saturn Apple Stift;Girokonto;Ausgabe
+14.4.22;69,64;Tanken;Tanken für 1,95.9;Girokonto;Ausgabe
+14.4.22;33,25;Lebensmittel;edeka;Girokonto;Ausgabe
+19.4.22;368,92;Haus;IKEA;Girokonto;Ausgabe
+19.4.22;105,75;Haus;Hornbach;Girokonto;Ausgabe
+12.4.22;12,00;Bücher;SchönBuchHandlung;Barvermögen;Ausgabe
+11.4.22;49,80;Gesundheit;Filder Apotheke;Girokonto;Ausgabe
+7.4.22;25,90;Bücher;Albert Müller;Girokonto;Ausgabe
+7.4.22;40,16;Lebensmittel;aldi;Girokonto;Ausgabe
+7.4.22;19,44;Lebensmittel;edeka;Girokonto;Ausgabe
+6.4.22;15,00;Kleidung;Greenality;Girokonto;Ausgabe
+6.4.22;24,95;Kindersachen;Korbmayer GmbH;Girokonto;Ausgabe
+6.4.22;18,97;Bücher;Thalia;Girokonto;Ausgabe
+24.4.22;63,49;Tanken;Tanken für 1,99.9;Girokonto;Ausgabe
+21.4.22;39,91;Lebensmittel;aldi;Girokonto;Ausgabe
+25.4.22;91,96;Kleidung;Deichmann;Girokonto;Ausgabe
+27.4.22;30,38;Lebensmittel;aldi;Girokonto;Ausgabe
+30.4.22;110,44;Haus;Obi Farbe;Girokonto;Ausgabe
+21.4.22;26,32;Lebensmittel;edeka;Girokonto;Ausgabe
+3.5.22;400,00;Miete;Miete an Dieter;Girokonto;Ausgabe
+3.5.22;45,77;Versicherungen;BU Canada Life;Girokonto;Ausgabe
+5.5.22;23,94;Lebensmittel;edeka;Girokonto;Ausgabe
+5.5.22;69,39;Tanken;Tanken für 2,02.9;Girokonto;Ausgabe
+5.5.22;23,94;Lebensmittel;edeka;Girokonto;Ausgabe
+5.5.22;19,95;Lebensmittel;Häusermann;Girokonto;Ausgabe
+5.5.22;55,09;Lebensmittel;aldi;Girokonto;Ausgabe
+9.5.22;214,93;Haus;ikea;Girokonto;Ausgabe
+12.5.22;30,91;Lebensmittel;edeka;Girokonto;Ausgabe
+13.5.22;10,87;Lebensmittel;rewe;Girokonto;Ausgabe
+11.5.22;11,90;Haushaltsmittel;dm;Girokonto;Ausgabe
+12.5.22;46,06;Lebensmittel;aldi;Girokonto;Ausgabe
+12.5.22;30,91;Lebensmittel;edeka;Girokonto;Ausgabe
+16.5.22;19,49;Lebensmittel;rewe;Girokonto;Ausgabe
+16.5.22;10,52;Gesundheit;Filderapotheke;Girokonto;Ausgabe
+19.5.22;58,93;Tanken;Tanken für 2,08.9;Girokonto;Ausgabe
+18.5.22;6,90;Lebensmittel;Netto;Girokonto;Ausgabe
+19.5.22;55,40;Lebensmittel;aldi;Girokonto;Ausgabe
+19.5.22;13,15;Haushaltsmittel;dm;Girokonto;Ausgabe
+19.5.22;16,59;Lebensmittel;rewe;Girokonto;Ausgabe
+19.5.22;14,99;Auto;Verbandskasten;Girokonto;Ausgabe
+16.5.22;42,00;Tanken;Tanken für 2,05.9;Girokonto;Ausgabe
+19.5.22;20,00;Freizeit;Albert Müller ;Girokonto;Ausgabe
+22.5.22;18,28;Freizeit;Cinemax;Girokonto;Ausgabe
+30.5.22;31,41;Lebensmittel;rewe;Girokonto;Ausgabe
+30.5.22;74,23;Tanken;Tanken für 2,12.9;Girokonto;Ausgabe
+25.5.22;15,30;Lebensmittel;Häusermann;Girokonto;Ausgabe
+25.5.22;20,72;Lebensmittel;edeka;Girokonto;Ausgabe
+25.5.22;47,87;Lebensmittel;aldi;Girokonto;Ausgabe
+25.5.22;29,49;Tanken;Tanken für 2,00.9;Girokonto;Ausgabe
+22.5.22;10,60;Reisen;VVS;Girokonto;Ausgabe
+3.6.22;400,00;Miete;Miete an Dieter;Girokonto;Ausgabe
+3.6.22;45,77;Versicherungen;BU Canada Life;Girokonto;Ausgabe
+2.6.22;14,98;Lebensmittel;edeka;Girokonto;Ausgabe
+11.6.22;4,20;Lebensmittel;intermarche;Girokonto;Ausgabe
+22.6.22;76,20;Lebensmittel;edeka;Girokonto;Ausgabe
+25.6.22;15,18;Lebensmittel;rewe;Girokonto;Ausgabe
+29.6.22;46,08;Lebensmittel;aldi;Girokonto;Ausgabe
+4.6.22;107,98;Kleidung;Galeria Kaufhof;Girokonto;Ausgabe
+9.6.22;17,98;Kleidung;Galeria Kaufhof;Girokonto;Ausgabe
+4.6.22;40,29;Kleidung;Müller;Girokonto;Ausgabe
+14.6.22;22,60;Lebensmittel;edeka;Girokonto;Ausgabe
+13.6.22;17,05;Lebensmittel;rewe;Girokonto;Ausgabe
+13.6.22;7,53;Haushaltsmittel;Schreibfant;Barvermögen;Ausgabe
+13.6.22;25,70;Gesundheit;Fortuna Apotheke;Girokonto;Ausgabe
+14.6.22;28,19;Lebensmittel;aldi;Girokonto;Ausgabe
+4.6.22;25,00;Geschenke;Globetrotter;Girokonto;Ausgabe
+4.6.22;44,97;Freizeit;Thalia;Girokonto;Ausgabe
+3.6.22;7,97;Lebensmittel;rewe;Girokonto;Ausgabe
+3.6.22;21,90;Haushaltsmittel;dm;Girokonto;Ausgabe
+29.6.22;3,90;Lebensmittel;Henzler Fürchte GmbH;Barvermögen;Ausgabe
+7.6.22;81,18;Lebensmittel;edeka;Girokonto;Ausgabe
+2.6.22;34,86;Lebensmittel;aldi;Girokonto;Ausgabe
+7.6.22;236,42;Haus;Ikea;Girokonto;Ausgabe
+10.6.22;17,00;Reisen;Buchung Maestro;Girokonto;Ausgabe
+29.6.22;14,30;Lebensmittel;Häussermann;Girokonto;Ausgabe
+23.6.22;70,07;Tanken;Tanken für 1,83.9;Girokonto;Ausgabe
+10.6.22;115,00;Reisen;Hotel Frankreich;Barvermögen;Ausgabe
+10.6.22;70,00;Reisen;Zug;Girokonto;Ausgabe
+3.7.22;400,00;Miete;Miete an Dieter;Girokonto;Ausgabe
+3.7.22;45,77;Versicherungen;BU Canada Life;Girokonto;Ausgabe
+7.7.22;58,83;Tanken;Tanken für 1,81.9;Girokonto;Ausgabe
+7.7.22;16,07;Lebensmittel;edeka;Girokonto;Ausgabe
+7.7.22;54,22;Lebensmittel;aldi;Girokonto;Ausgabe
+9.7.22;22,17;Lebensmittel;rewe;Girokonto;Ausgabe
+20.7.22;61,88;Lebensmittel;aldi;Girokonto;Ausgabe
+22.7.22;64,04;Tanken;Tanken für 1,80.9;Girokonto;Ausgabe
+13.7.22;26,68;Lebensmittel;aldi;Girokonto;Ausgabe
+27.7.22;79,40;Lebensmittel;aldi;Girokonto;Ausgabe
+18.7.22;47,96;Kleidung;H&M;Girokonto;Ausgabe
+20.7.22;19,35;Lebensmittel;Häussermann;Girokonto;Ausgabe
+13.7.22;44,19;Lebensmittel;edeka;Girokonto;Ausgabe
+18.7.22;40,46;Gesundheit;Fortuna Apotheke;Girokonto;Ausgabe
+22.7.22;16,80;Lebensmittel;rewe;Girokonto;Ausgabe
+20.7.22;26,80;Lebensmittel;edeka;Girokonto;Ausgabe
+18.7.22;11,98;Kleidung;Müller;Girokonto;Ausgabe
+18.7.22;92,97;Kleidung;Only;Girokonto;Ausgabe
+18.7.22;13,35;Haushaltsmittel;dm;Girokonto;Ausgabe
+30.7.22;11,62;Lebensmittel;rewe;Girokonto;Ausgabe
+3.8.22;400,00;Miete;Miete an Dieter;Girokonto;Ausgabe
+3.8.22;45,77;Versicherungen;BU Canada Life;Girokonto;Ausgabe
+16.8.22;45,42;Lebensmittel;Rewe;Girokonto;Ausgabe
+24.8.22;15,70;Haushaltsmittel;dm;Girokonto;Ausgabe
+16.8.22;9,50;Bücher;Buchhandlung Albert Müller;Girokonto;Ausgabe
+24.8.22;66,98;Lebensmittel;aldi;Girokonto;Ausgabe
+16.8.22;17,95;Haushaltsmittel;Sport Katzmaier GmbH;Girokonto;Ausgabe
+24.8.22;38,76;Lebensmittel;edeka;Girokonto;Ausgabe
+3.8.22;73,84;Tanken;Tanken für 1.88,9;Girokonto;Ausgabe
+3.8.22;11,90;Auto;Waschen;Girokonto;Ausgabe
+3.8.22;4,84;Lebensmittel;Smetzgerei Schneider;Girokonto;Ausgabe
+3.8.22;42,61;Lebensmittel;aldi;Girokonto;Ausgabe
+4.8.22;8,00;Lebensmittel;Rewe;Girokonto;Ausgabe
+4.8.22;21,49;Gesundheit;Fortuna Apotheke;Girokonto;Ausgabe
+4.8.22;45,30;Haushaltsmittel;dm;Girokonto;Ausgabe
+5.8.22;3,49;Lebensmittel;Rewe;Girokonto;Ausgabe
+2.8.22;4,38;Lebensmittel;Rewe;Girokonto;Ausgabe
+1.8.22;26,48;Haushaltsmittel;Galeria Kaufhof;Girokonto;Ausgabe
+1.8.22;22,94;Geschenke;Korbmayer;Girokonto;Ausgabe
+17.8.22;20,71;Gesundheit;Fortuna Apotheke;Girokonto;Ausgabe
+1.8.22;20,00;Geschenke;Globetrotter;Girokonto;Ausgabe
+29.8.22;29,31;Technische Ausrüstung;MediMarkt;Girokonto;Ausgabe
+26.8.22;56,00;Tanken;Tanken für 1,64.9;Girokonto;Ausgabe
+26.8.22;45,00;Allgemein;The Gardener s Nosh;Girokonto;Ausgabe
+26.8.22;22,98;Kleidung;C&A;Barvermögen;Ausgabe
+3.9.22;400,00;Miete;Miete an Dieter;Girokonto;Ausgabe
+3.9.22;45,77;Versicherungen;BU Canada Life;Girokonto;Ausgabe
+1.9.22;17,20;Lebensmittel;Häussermann;Girokonto;Ausgabe
+1.9.22;19,77;Lebensmittel;edeka;Girokonto;Ausgabe
+7.9.22;57,40;Lebensmittel;aldi;Girokonto;Ausgabe
+7.9.22;77,00;Tanken;Tanken für 1,92.9;Girokonto;Ausgabe
+6.9.22;37,99;Bücher;Buchhandlung Albert Müller;Girokonto;Ausgabe
+1.9.22;53,65;Lebensmittel;aldi;Girokonto;Ausgabe
+6.9.22;5,99;Bücher;Schreibfant;Barvermögen;Ausgabe
+10.9.22;10,60;Reisen;SSB;Girokonto;Ausgabe
+14.9.22;49,07;Lebensmittel;aldi;Girokonto;Ausgabe
+16.9.22;4,90;Lebensmittel;Bäcker;Barvermögen;Ausgabe
+16.9.22;16,40;Bücher;Buchhandlung Albert Müller;Girokonto;Ausgabe
+16.9.22;75,77;Tanken;Tanken für 1,93.9;Girokonto;Ausgabe
+14.9.22;33,97;Lebensmittel;edeka;Girokonto;Ausgabe
+21.9.22;54,99;Haushaltsmittel;Bügelbrett;Girokonto;Ausgabe
+21.9.22;45,00;Lebensmittel;Bäcker;Girokonto;Ausgabe
+21.9.22;10,50;Geschenke;Fernsehturm;Girokonto;Ausgabe
+22.9.22;47,00;Gesundheit;Friseur;Barvermögen;Ausgabe
+22.9.22;28,38;Lebensmittel;edeka;Girokonto;Ausgabe
+22.9.22;18,16;Lebensmittel;Schneider;Girokonto;Ausgabe
+22.9.22;117,39;Lebensmittel;aldi;Girokonto;Ausgabe
+29.9.22;18,93;Lebensmittel;edeka;Girokonto;Ausgabe
+29.9.22;7,15;Lebensmittel;Bäcker;Barvermögen;Ausgabe
+29.9.22;59,95;Lebensmittel;aldi;Girokonto;Ausgabe
+23.9.22;9,00;Lebensmittel;Bäcker;Barvermögen;Ausgabe
+23.9.22;14,00;Geschenke;Albert Müller;Girokonto;Ausgabe
+29.9.22;5,57;Lebensmittel;rewe;Girokonto;Ausgabe
+27.9.22;32,37;Haushaltsmittel;dm;Girokonto;Ausgabe
+30.9.22;4,75;Gesundheit;Apotheke am Rathaus;Barvermögen;Ausgabe
+30.9.22;13,80;Lebensmittel;Häussermann;Girokonto;Ausgabe
+26.9.22;15,52;Gesundheit;Fortuna Apotheke;Girokonto;Ausgabe
+28.9.22;10,60;Reisen;SSB;Girokonto;Ausgabe
+26.9.22;1,99;Lebensmittel;rewe;Barvermögen;Ausgabe
+23.9.22;10,88;Haushaltsmittel;rewe;Girokonto;Ausgabe
+3.10.22;400,00;Miete;Miete an Dieter;Girokonto;Ausgabe
+3.10.22;45,77;Versicherungen;BU Canada Life;Girokonto;Ausgabe
+4.10.22;47,00;Lebensmittel;Cafe del Sol;Girokonto;Ausgabe
+6.10.22;67,16;Tanken;Tanken für 1,87.9;Girokonto;Ausgabe
+6.10.22;33,35;Lebensmittel;aldi;Girokonto;Ausgabe
+6.10.22;14,37;Lebensmittel;edeka;Girokonto;Ausgabe
+6.10.22;46,45;Geschenke;dm;Girokonto;Ausgabe
+13.10.22;18,02;Lebensmittel;edeka;Girokonto;Ausgabe
+17.10.22;19,25;Haushaltsmittel;dm;Girokonto;Ausgabe
+13.10.22;45,15;Lebensmittel;aldi;Girokonto;Ausgabe
+21.10.22;15,04;Lebensmittel;rewe;Girokonto;Ausgabe
+28.10.22;7,95;Geschenke;Pippi und Annika;Barvermögen;Ausgabe
+27.10.22;83,97;Lebensmittel;aldi;Girokonto;Ausgabe
+27.10.22;5,53;Haushaltsmittel;dm;Girokonto;Ausgabe
+27.10.22;14,49;Lebensmittel;edeka;Girokonto;Ausgabe
+3.11.22;400,00;Miete;Miete an Dieter;Girokonto;Ausgabe
+3.11.22;45,77;Versicherungen;BU Canada Life;Girokonto;Ausgabe
+22.11.22;64,77;Tanken;Tanken für 1,76.9;Girokonto;Ausgabe
+21.11.22;44,65;Geschenke;Thalia;Girokonto;Ausgabe
+18.11.22;7,96;Lebensmittel;Globetrotter;Girokonto;Ausgabe
+22.11.22;2,48;Freizeit;Reiten;Barvermögen;Ausgabe
+26.11.22;10,45;Lebensmittel;edeka;Girokonto;Ausgabe
+15.11.22;12,35;Allgemein;Post;Girokonto;Ausgabe
+26.11.22;40,80;Freizeit;Dinomuseum;Girokonto;Ausgabe
+24.11.22;25,65;Haushaltsmittel;dm;Girokonto;Ausgabe
+24.11.22;44,27;Lebensmittel;aldi;Girokonto;Ausgabe
+24.11.22;26,97;Lebensmittel;edeka;Girokonto;Ausgabe
+3.11.22;4,00;Allgemein;Woolworth;Girokonto;Ausgabe
+3.11.22;36,00;Lebensmittel;Bäcker und Metzger;Barvermögen;Ausgabe
+3.11.22;42,38;Geschenke;Müller;Girokonto;Ausgabe
+16.11.22;14,15;Lebensmittel;rewe;Girokonto;Ausgabe
+4.11.22;52,90;Lebensmittel;aldi;Girokonto;Ausgabe
+10.11.22;33,37;Lebensmittel;edeka;Girokonto;Ausgabe
+4.11.22;18,49;Lebensmittel;edeka;Girokonto;Ausgabe
+10.11.22;40,83;Lebensmittel;aldi;Girokonto;Ausgabe
+3.12.22;400,00;Miete;Miete an Dieter;Girokonto;Ausgabe
+3.12.22;45,77;Versicherungen;BU Canada Life;Girokonto;Ausgabe
+7.12.22;2,00;Freizeit;Tedi;Barvermögen;Ausgabe
+1.12.22;35,32;Lebensmittel;aldi;Girokonto;Ausgabe
+1.12.22;31,44;Lebensmittel;edeka;Girokonto;Ausgabe
+7.12.22;12,01;Lebensmittel;rewe;Girokonto;Ausgabe
+1.12.22;30,45;Haushaltsmittel;dm;Girokonto;Ausgabe
+1.12.22;19,49;Gesundheit;Fortuna Apotheke;Girokonto;Ausgabe
+12.12.22;43,36;Geschenke;Müller;Girokonto;Ausgabe
+12.12.22;22,45;Geschenke;Pippi und Annika;Girokonto;Ausgabe
+12.12.22;35,28;Geschenke;Idee Kreativmarkt;Girokonto;Ausgabe
+14.12.22;24,95;Haushaltsmittel;dm;Girokonto;Ausgabe
+14.12.22;40,00;Geschenke;Gutschein;Barvermögen;Ausgabe
+12.12.22;43,94;Geschenke;Thalia;Girokonto;Ausgabe
+14.12.22;23,90;Lebensmittel;Häussermann;Girokonto;Ausgabe
+12.12.22;32,26;Lebensmittel;rewe;Girokonto;Ausgabe
+9.12.22;20,00;Geschenke;Cafe del Sol;Girokonto;Ausgabe
+21.12.23;2355,00;Haus;Kaution;Girokonto;Ausgabe
+21.12.23;68,28;Geschenke;Spende;Girokonto;Ausgabe
+21.12.23;500,00;Geschenke;Spende;Girokonto;Ausgabe
+20.12.23;13,05;Gesundheit;Fortuna Apotheke;Girokonto;Ausgabe
+28.12.23;16,26;Lebensmittel;rewe;Girokonto;Ausgabe
+31.12.23;90,48;Lebensmittel;aldi;Girokonto;Ausgabe
+31.12.23;25,90;Haushaltsmittel;dm;Girokonto;Ausgabe
+21.12.23;69,16;Tanken;Tanken für 1.67.9;Girokonto;Ausgabe
+22.12.23;68,57;Lebensmittel;aldi;Girokonto;Ausgabe
+22.12.23;53,30;Lebensmittel;edeka;Girokonto;Ausgabe
+31.12.23;5,12;Haushaltsmittel;dm;Girokonto;Ausgabe
+31.12.23;21,48;Haushaltsmittel;Obi;Girokonto;Ausgabe
+21.12.23;2,58;Lebensmittel;Schneider;Girokonto;Ausgabe
+31.12.23;16,52;Lebensmittel;rewe;Girokonto;Ausgabe

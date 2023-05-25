@@ -1,0 +1,18 @@
+﻿date;amount;category;description;account;transactionkind
+15.1.22;1899,42;Gehalt;Gehalt;Girokonto;Einnahme
+1.1.22;11025,88;Anpassung;Girokonto;Girokonto;Einnahme
+1.1.22;281,44;Anpassung;Barvermögen;Barvermögen;Einnahme
+15.2.22;1899,42;Gehalt;Gehalt;Girokonto;Einnahme
+15.3.22;1899,42;Gehalt;Gehalt;Girokonto;Einnahme
+15.4.22;1934,29;Gehalt;Gehalt;Girokonto;Einnahme
+15.5.22;1934,29;Gehalt;Gehalt;Girokonto;Einnahme
+9.5.22;42,90;Geschenke;Rückgabe;Girokonto;Einnahme
+15.6.22;1945,81;Gehalt;Gehalt;Girokonto;Einnahme
+8.6.22;10,50;Geschenke;Rückgabe Schnürsenkel;Girokonto;Einnahme
+9.6.22;10,50;Geschenke;Rückgabe Schnürsenkel;Girokonto;Einnahme
+15.7.22;1945,81;Gehalt;Gehalt;Girokonto;Einnahme
+15.8.22;1945,81;Gehalt;Gehalt;Girokonto;Einnahme
+15.9.22;1977,76;Gehalt;Gehalt;Girokonto;Einnahme
+15.10.22;1977,76;Gehalt;Gehalt;Girokonto;Einnahme
+15.11.22;1977,76;Gehalt;Gehalt;Girokonto;Einnahme
+15.12.22;1977,76;Gehalt;Gehalt;Girokonto;Einnahme

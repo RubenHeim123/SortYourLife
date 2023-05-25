@@ -16,7 +16,6 @@ import environ
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
 
@@ -29,8 +28,7 @@ SECRET_KEY = env('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = env('DEBUG')
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1','192.168.0.18']
-
+ALLOWED_HOSTS = ['localhost', '127.0.0.1','192.168.0.135','192.168.0.18']
 
 # Application definition
 
@@ -45,7 +43,10 @@ INSTALLED_APPS = [
     'finance.apps.FinanceConfig',
     #external
     'rest_framework',
-    'corsheaders'
+    'rest_framework.authtoken',
+    'corsheaders',
+    'django_crontab',
+    'debug_toolbar',
 ]
 
 CORS_ORIGIN_WHITELIST = [
@@ -63,15 +64,18 @@ SIMPLE_JWT = {
 }
 
 REST_FRAMEWORK = {
+    'DATE_INPUT_FORMATS': ['iso-8601', '%Y-%m-%dT%H:%M:%S.%fZ', '%d.%M%Y'],
     # Use Django´s standard 'django.contrib.auth' permissions,
     # or allow read-only access for unauthenticated users.   
     'DEFAULT_PERMISSION_CLASSES': [
         'rest_framework.permissions.IsAuthenticated',
-        'rest_framework.authentication.TokenAuthentication',
     ],
 
     'DEFAULT_AUTHENTICATION_CLASSES': (
+        'rest_framework.authentication.TokenAuthentication',
         'rest_framework_simplejwt.authentication.JWTAuthentication',
+        'rest_framework.authentication.SessionAuthentication',
+        'rest_framework.authentication.BasicAuthentication',
     )
 }
 
@@ -85,6 +89,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 
     'corsheaders.middleware.CorsMiddleware',
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
 ]
 
 ROOT_URLCONF = 'backendapp.urls'
@@ -159,3 +164,9 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+INTERNAL_IPS = [
+    '192.168.0.18',
+    'localhost',
+    '127.0.0.1',
+]
