@@ -4,25 +4,25 @@ The app is designed to help organize daily finances and keep track of them. The 
 The app features user registration, login/logout functionality, and the ability to record transactions, both positive income and negative expenses. Users can also define multiple accounts and categories for both income and expenses. The same applies to budgets, with the option to set a time frame for them. The home screen presents a graphical representation of income and expenses.
 
 ## Login
-![Login](readmme_img/Login.png)
+![Login](readme_img/Login.png)
 
 ## Register
-![Register](readmme_img/register.png)
+![Register](readme_img/register.png)
 
 ## Password
-![Password](readmme_img/password.png)
+![Password](readme_img/password.png)
 
 ## Home
-![Home](readmme_img/home.png)
+![Home](readme_img/home.png)
 
 ## Income
-![Income](readmme_img/income.png)
+![Income](readme_img/income.png)
 
 ## Outgoing
-![Outgoing](readmme_img/outgoing.png)
+![Outgoing](readme_img/outgoing.png)
 
 ## Bank Accounts
-![Bank Accounts](readmme_img/bankaccount.png)
+![Bank Accounts](readme_img/bankaccount.png)
 
 ## Fix costs
-![Fix costs](readmme_img/fixcosts.png)
+![Fix costs](readme_img/fixcosts.png)
