@@ -5,6 +5,7 @@ import 'package:flutterfrontend/general/registration.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../globals.dart';
+import 'home.dart';
 import 'login.dart';
 import 'package:http/http.dart' as http;
 
@@ -130,7 +131,7 @@ class StartState extends State<Start>{
                       onPressed: (){
                         Navigator.push(
                           context, 
-                          MaterialPageRoute(builder: (context) => const LoginPage(username: '', pwd: '', offline: true),
+                          MaterialPageRoute(builder: (context) => const MyHomePage(offline: true),
                         ));                        
                       },
                       style: ElevatedButton.styleFrom(

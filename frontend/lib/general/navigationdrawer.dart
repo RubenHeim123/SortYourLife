@@ -7,7 +7,6 @@ import '../finance/category.dart';
 import '../finance/fix.dart';
 import '../finance/overview.dart';
 import '../finance/transaction.dart';
-import 'databasehelper.dart';
 import 'help.dart';
 
 class NavigationDrawer extends StatelessWidget{

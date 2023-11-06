@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'general/start.dart';
-import 'package:http/http.dart' as http;
 
-import 'globals.dart';
 
 
 void main(){runApp(const MyApp());}
